@@ -6,4 +6,6 @@
   <h3>Week 2 - <p>https://github.com/RickyBandi/AIML-LAB/blob/main/LAB/Week%202%20(Aug%2014)%20%5BAIML%5D.ipynb</p></h3>
   <h3>Week 3 - <p>https://github.com/RickyBandi/AIML-LAB/blob/main/LAB/AIML%20WEEK3.ipynb</p></h3>
   <h3>Week 4 - <p>https://github.com/RickyBandi/AIML-LAB/blob/main/LAB/Week%204.ipynb</p></h3>
+  <h3>Week 5 - <p>https://github.com/RickyBandi/AIML-LAB/blob/main/LAB/Week_5.ipynb</p></h3>
+  <h3>Week 6 - <p>https://github.com/RickyBandi/AIML-LAB/blob/main/LAB/Week_6.ipynb</p></h3>
 </body>
