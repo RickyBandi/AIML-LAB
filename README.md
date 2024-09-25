@@ -9,4 +9,5 @@
   <h3>Week 5 - <p>https://github.com/RickyBandi/AIML-LAB/blob/main/LAB/Week%205.ipynb</p></h3>
   <h3>Week 6 - <p>https://github.com/RickyBandi/AIML-LAB/blob/main/LAB/Week%206.ipynb</p></h3>
   <h3>Week 7 - <p>https://github.com/RickyBandi/AIML-LAB/blob/main/LAB/Week%207.ipynb</p></h3>
+  <h3>Week 8 - <p>https://github.com/RickyBandi/AIML-LAB/blob/main/LAB/Week_8.ipynb</p></h3>
 </body>
