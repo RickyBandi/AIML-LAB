@@ -7,7 +7,7 @@
 
 <a href="https://github.com/RickyBandi/AIML-LAB/blob/main/LAB/Week%202%20(Aug%2014)%20%5BAIML%5D.ipynb">LAB 02</a> : Implement AI Search using Breadth First, Depth First and A* Search Algorithm using Python
 
-<a href="https://github.com/RickyBandi/AIML-LAB/blob/main/LAB/AIML%20WEEK3.ipynb">LAB 03</a> : Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms 
+<a href="https://github.com/RickyBandi/AIML-LAB/blob/main/LAB/Week%203.ipynb">LAB 03</a> : Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms 
 
 <a href="https://github.com/RickyBandi/AIML-LAB/blob/main/LAB/Week%204.ipynb">LAB 04</a> : Implement Linear Regression using Boston Housing Data
 
@@ -23,5 +23,5 @@
 
 <a href="https://github.com/RickyBandi/AIML-LAB/blob/main/LAB/Week%20-%2010%20%5BKMeans%5D.ipynb">LAB 10</a> : Implement K-Means Clustering using Iris Data
 
-<a href="https://github.com/RickyBandi/AIML-LAB/blob/main/LAB/Week%20-%2010%20%5BKMeans%5D.ipynb">LAB 11</a> : Implementation
+<a href="https://github.com/RickyBandi/AIML-LAB/blob/main/LAB/AIML%20Implementation.ipynb">LAB 11</a> : Implementation
 </body>
