@@ -12,4 +12,5 @@
   <h3>Week 8 - <p>https://github.com/RickyBandi/AIML-LAB/blob/main/LAB/Week_8.ipynb</p></h3>
   <h3>Week 9 - <p>https://github.com/RickyBandi/AIML-LAB/blob/main/LAB/Week%209.ipynb</p></h3>
   <h3>Week 10 - <p>https://github.com/RickyBandi/AIML-LAB/blob/main/LAB/Week%20-%2010%20%5BKMeans%5D.ipynb</p></h3>
+  <h3>Week 11 [Implementation] - <p>https://github.com/RickyBandi/AIML-LAB/blob/main/LAB/AIML%20Implementation.ipynbp></h3>
 </body>
