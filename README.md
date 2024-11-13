@@ -1,6 +1,6 @@
 # AIML-LAB
-<h1>LAB ASSIGNMENTS (2303A52330)</h1><br>
-<h1>B.Rithwik</h1>
+<h1>LAB ASSIGNMENTS (2303A52330)</h1>
+<h1>   B.Rithwik</h1>
 
 <body>
   
