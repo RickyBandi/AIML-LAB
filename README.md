@@ -24,5 +24,5 @@
 
 <a href="https://github.com/RickyBandi/AIML-LAB/blob/main/LAB/Week%20-%2010%20%5BKMeans%5D.ipynb">LAB 10</a> : Implement K-Means Clustering using Iris Data
 
-<a href="https://github.com/RickyBandi/AIML-LAB/blob/main/LAB/AIML%20Implementation.ipynb">LAB 11</a> : Implementation
+<a href="https://github.com/RickyBandi/AIML-LAB/blob/main/LAB/Week%20-%2011%20%5BAIML%20Implementation%5D.ipynb">LAB 11</a> : Implementation
 </body>
